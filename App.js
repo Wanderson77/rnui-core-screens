@@ -1,8 +1,8 @@
-import Styles from './src/core/Platform';
+import MyComponent from './src/core/TextInput/Novo';
 
 export default function App() {
   return (
-    <Styles />
+    <MyComponent />
   );
 }
 
