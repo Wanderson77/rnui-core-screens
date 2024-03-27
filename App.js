@@ -1,4 +1,4 @@
-import MyComponent from './src/core/TextInput/Novo';
+import MyComponent from './src/core/Switch/OnOff';
 
 export default function App() {
   return (
