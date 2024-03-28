@@ -1,4 +1,4 @@
-import MyComponent from './src/core/Switch/OnOff';
+import MyComponent from './src/core/TextInput/Validation';
 
 export default function App() {
   return (
