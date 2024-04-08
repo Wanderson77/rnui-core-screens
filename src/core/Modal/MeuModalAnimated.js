@@ -1,5 +1,3 @@
-/** Modal animado */
-
 import React, { useState } from 'react'
 import { View, Text, StyleSheet, TouchableOpacity, Animated, Dimensions } from 'react-native'
 
