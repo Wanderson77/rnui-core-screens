@@ -1,4 +1,4 @@
-import MyComponent from './src/core/Modal/Slide';
+import MyComponent from './src/core/KeyboardAvoidingView/SomeText';
 
 export default function App() {
   return (
